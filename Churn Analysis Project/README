@@ -1,0 +1,17 @@
+📌 Problem Statement
+
+In the competitive telecommunications industry, customer retention is critical for sustainable growth. The company faces a 27% churn rate, leading to significant revenue loss and higher acquisition costs.
+
+Key challenges:
+
+Identifying at-risk customers before they churn
+
+Understanding root causes driving churn
+
+Lack of visibility into vulnerable customer segments
+
+Ineffective prioritization of retention initiatives
+
+No predictive capability for proactive intervention
+
+This project leverages Power BI and Random Forest machine learning to identify high-risk customers, analyze churn patterns, and enable data-driven retention strategies.
