@@ -34,7 +34,7 @@ This repository highlights my expertise in **Power BI**, **data modeling**, **DA
 |----------|----------|
 | **Churn Analysis** | ![Churn Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG) |
 | **Credit Card Analysis** | ![Credit Card Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG) |
-| **RFM Analysis** | ![RFM Dashboard](./RFM-Analysis-Project/Images/rfm_dashboard.png) |
+| **RFM Analysis** | ![RFM Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/RFM%20Analysis%20Project/Images/Dashboard.JPG) |
 
 ---
 
