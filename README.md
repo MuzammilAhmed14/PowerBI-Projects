@@ -12,8 +12,8 @@ This repository highlights my expertise in **Power BI**, **data modeling**, **DA
 | Project | Description |
 |----------|--------------|
 | [🧾 Churn Analysis Project](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Churn%20Analysis%20Project) | Built a customer churn analysis model to identify at-risk customers and uncover key retention drivers. |
-| [💳 Credit Card Analysis Project](./Credit-Card-Project) | Analyzed credit card transaction data to extract business insights on revenue growth, spending patterns, and customer segmentation. |
-| [📈 RFM Analysis Project](./RFM-Analysis-Project) | Performed RFM (Recency, Frequency, Monetary) analysis and used **Random Forest ML** to predict high-value and churn-risk customers, improving targeted marketing and retention strategies. |
+| [💳 Credit Card Analysis Project](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Credit%20Card%20Project) | Analyzed credit card transaction data to extract business insights on revenue growth, spending patterns, and customer segmentation. |
+| [📈 RFM Analysis Project](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/RFM%20Analysis%20Project) | Performed RFM (Recency, Frequency, Monetary) analysis and used **Random Forest ML** to predict high-value and churn-risk customers, improving targeted marketing and retention strategies. |
 
 ---
 
@@ -33,7 +33,7 @@ This repository highlights my expertise in **Power BI**, **data modeling**, **DA
 | Project | Preview |
 |----------|----------|
 | **Churn Analysis** | ![Churn Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG) |
-| **Credit Card Analysis** | ![Credit Card Dashboard](./Credit-Card-Project/Images/credit_card_dashboard.png) |
+| **Credit Card Analysis** | ![Credit Card Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG) |
 | **RFM Analysis** | ![RFM Dashboard](./RFM-Analysis-Project/Images/rfm_dashboard.png) |
 
 ---
