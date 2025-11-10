@@ -1,4 +1,4 @@
-# 🧾 Customer Churn Analysis – Power BI & Random Forest ML Dashboard
+# 🧾 Customer Churn Analysis 
 
 Interactive Power BI dashboard enhanced with **Random Forest-based churn predictions**.
 
