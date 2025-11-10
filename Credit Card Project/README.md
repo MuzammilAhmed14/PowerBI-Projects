@@ -35,10 +35,10 @@ Build an interactive Power BI dashboard that:
 ## 📊 Dashboard Screenshots
 
 ### Main Transactions Dashboard
-![Credit Card Transactions Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Screenshots/Transactions_Dashboard.JPG)
+![Credit Card Transactions Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Transaction%20Dashboard.JPG)
 
 ### Customer Overview Dashboard
-![Credit Card Customer Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Screenshots/Customer_Dashboard.JPG)
+![Credit Card Customer Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG)
 
 ---
 
