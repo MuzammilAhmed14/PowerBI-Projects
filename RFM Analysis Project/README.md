@@ -237,7 +237,7 @@ Detailed customer-level data showing:
 - **Focus on Office Supplies category** (highest customer count)
 
 ```
-## 🎯 Use Cases
+### 🎯 Use Cases
 
 - **Marketing Teams**: Create targeted campaigns for each RFM segment
 - **Sales Teams**: Prioritize high-value customers and at-risk accounts
