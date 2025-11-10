@@ -43,6 +43,14 @@ Build an interactive Power BI dashboard with ML-driven insights to:
 | New Joiners             | 411    |
 | Predicted Churners      | 378    |
 
+## 📊 Dashboard Screenshots
+
+### Main Churn Analysis Dashboard
+![Churn Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG)
+
+### Predicted Churner Dashboard (Random Forest ML-Powered)
+![Prediction Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Prediction%20Dashboard.JPG)
+
 ### Page 1: Churn Analysis Overview
 
 **Demographics Analysis:**
