@@ -255,4 +255,4 @@ Sheikh Muzammil Ahmed
 [LinkedIn](https://www.linkedin.com/in/muzammil-ahmed-ap2000)
 
 🏷️ **Tags**  
-#PowerBI #DataAnalytics #RFMAnalysis #CustomerSegmentation #DataStorytelling #BusinessIntelligence #CustomerRetention #MarketingAnalytics
+#PowerBI #DataAnalytics #CreditCardAnalysis #FinancialAnalytics #CustomerSegmentation #DataStorytelling #BusinessIntelligence #TransactionAnalysis
