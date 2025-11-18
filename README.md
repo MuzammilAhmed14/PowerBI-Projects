@@ -1,4 +1,4 @@
-# 📊 Power BI Projects Portfolio
+# 📊 Power BI Projects
 
 Welcome to my **Power BI Portfolio** — a curated collection of analytical projects designed to convert raw data into actionable business insights.  
 
