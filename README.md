@@ -39,34 +39,64 @@ My work spans customer analytics, financial reporting, and predictive modeling, 
 
 ---
 
-## 🚀 Featured Projects
+<br>
+🚀 Featured Projects
 
-### 🧾 [Churn Analysis Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Churn%20Analysis%20Project)
-Identified at-risk customers and uncovered key churn drivers using contract type, tenure, and service usage signals. Built interactive retention visuals and KPIs with DAX.
+<table>
+<tr>
+<td width="45%">
+<img src="https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG?raw=true" width="100%"/>
+</td>
+<td width="55%" valign="top">
+🧾 Customer Churn Analysis
 
-![Churn Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG?raw=true)
+Identified 378 at-risk customers out of 6,418 using a Random Forest model layered on top of a Power BI dashboard — turning a 27% churn rate into a ranked, actionable retention list.
 
----
+Power BI DAX Random Forest Predictive Analytics
 
-### 💳 [Credit Card Transaction Analysis](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Credit%20Card%20Project)
-Analyzed transaction-level data to surface revenue trends, customer segments, and spending behavior. Features dynamic drill-throughs and time intelligence DAX measures.
+</td>
+</tr>
+<tr>
+<td width="45%">
+<img src="https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG?raw=true" width="100%"/>
+</td>
+<td width="55%" valign="top">
+💳 Credit Card Transaction Analysis
 
-![Credit Card Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG?raw=true)
+Analyzed transaction-level data to surface revenue trends, customer segments, and spending behavior, with dynamic drill-throughs and time-intelligence DAX measures.
 
----
+Power BI DAX Time Intelligence Segmentation
 
-### 📈 [RFM Analysis + ML Prediction](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/RFM%20Analysis%20Project)
-Segmented customers by Recency, Frequency, and Monetary value, then used **Random Forest** to predict high-value and churn-risk profiles. Enabled targeted retention strategies with actionable segmentation visuals.
+</td>
+</tr>
+<tr>
+<td width="45%">
+<img src="https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/RFM%20Analysis%20Project/Images/Dashboard.JPG?raw=true" width="100%"/>
+</td>
+<td width="55%" valign="top">
+📈 RFM Analysis + ML Prediction
 
-![RFM Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/RFM%20Analysis%20Project/Images/Dashboard.JPG?raw=true)
+Segmented customers by Recency, Frequency, and Monetary value, then used Random Forest to predict high-value and churn-risk profiles — enabling targeted retention strategies through actionable segmentation visuals.
 
----
+RFM Segmentation Random Forest Customer Value
 
-### 💰 [Financial Performance Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Financial%20Dashboard%20Project)
-Multi-page financial intelligence dashboard covering sales, profit, COGS, discount impact, and YoY trends. Includes a **dynamic What-If simulation model** for evaluating margin improvement scenarios.
+</td>
+</tr>
+<tr>
+<td width="45%">
+<img src="https://raw.githubusercontent.com/MuzammilAhmed14/PowerBI-Projects/main/Financial%20Dashboard%20Project/Images/Performance%20Overview%20page.JPG" width="100%"/>
+</td>
+<td width="55%" valign="top">
+💰 Financial Performance Dashboard
 
-![Financial Dashboard](https://raw.githubusercontent.com/MuzammilAhmed14/PowerBI-Projects/main/Financial%20Dashboard%20Project/Images/Performance%20Overview%20page.JPG)
+Multi-page financial intelligence dashboard covering sales, profit, COGS, discount impact, and YoY trends — with a dynamic What-If simulation model for evaluating margin-improvement scenarios.
 
+Power BI What-If Analysis Financial Modeling
+
+</td>
+</tr>
+</table>
+<br>
 ---
 
 ## 📊 GitHub Stats
