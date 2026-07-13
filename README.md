@@ -21,7 +21,7 @@
 
 ## 🙋 About Me
 
-I'm a data analyst with **2+ years of professional experience** in **Power BI**, **data modeling**, and **business intelligence**. I specialize in building analytical solutions that give organizations clear visibility into their performance — and the confidence to act on it.
+I'm a data analyst with **1.5+ years of professional experience** in **Power BI**, **data modeling**, and **business intelligence**. I specialize in building analytical solutions that give organizations clear visibility into their performance — and the confidence to act on it.
 
 My work spans customer analytics, financial reporting, and predictive modeling, with a growing interest in integrating **machine learning** into BI workflows.
 
@@ -39,64 +39,34 @@ My work spans customer analytics, financial reporting, and predictive modeling, 
 
 ---
 
-<br>
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="45%">
-<img src="https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG?raw=true" width="100%"/>
-</td>
-<td width="55%" valign="top">
-🧾 Customer Churn Analysis
+### 🧾 [Churn Analysis Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Churn%20Analysis%20Project)
+Identified at-risk customers and uncovered key churn drivers using contract type, tenure, and service usage signals. Built interactive retention visuals and KPIs with DAX.
 
-Identified 378 at-risk customers out of 6,418 using a Random Forest model layered on top of a Power BI dashboard — turning a 27% churn rate into a ranked, actionable retention list.
+![Churn Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG?raw=true)
 
-Power BI DAX Random Forest Predictive Analytics
+---
 
-</td>
-</tr>
-<tr>
-<td width="45%">
-<img src="https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG?raw=true" width="100%"/>
-</td>
-<td width="55%" valign="top">
-💳 Credit Card Transaction Analysis
+### 💳 [Credit Card Transaction Analysis](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Credit%20Card%20Project)
+Analyzed transaction-level data to surface revenue trends, customer segments, and spending behavior. Features dynamic drill-throughs and time intelligence DAX measures.
 
-Analyzed transaction-level data to surface revenue trends, customer segments, and spending behavior, with dynamic drill-throughs and time-intelligence DAX measures.
+![Credit Card Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Credit%20Card%20Project/Images/Customer%20Dashboard.JPG?raw=true)
 
-Power BI DAX Time Intelligence Segmentation
+---
 
-</td>
-</tr>
-<tr>
-<td width="45%">
-<img src="https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/RFM%20Analysis%20Project/Images/Dashboard.JPG?raw=true" width="100%"/>
-</td>
-<td width="55%" valign="top">
-📈 RFM Analysis + ML Prediction
+### 📈 [RFM Analysis + ML Prediction](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/RFM%20Analysis%20Project)
+Segmented customers by Recency, Frequency, and Monetary value, then used **Random Forest** to predict high-value and churn-risk profiles. Enabled targeted retention strategies with actionable segmentation visuals.
 
-Segmented customers by Recency, Frequency, and Monetary value, then used Random Forest to predict high-value and churn-risk profiles — enabling targeted retention strategies through actionable segmentation visuals.
+![RFM Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/RFM%20Analysis%20Project/Images/Dashboard.JPG?raw=true)
 
-RFM Segmentation Random Forest Customer Value
+---
 
-</td>
-</tr>
-<tr>
-<td width="45%">
-<img src="https://raw.githubusercontent.com/MuzammilAhmed14/PowerBI-Projects/main/Financial%20Dashboard%20Project/Images/Performance%20Overview%20page.JPG" width="100%"/>
-</td>
-<td width="55%" valign="top">
-💰 Financial Performance Dashboard
+### 💰 [Financial Performance Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/tree/main/Financial%20Dashboard%20Project)
+Multi-page financial intelligence dashboard covering sales, profit, COGS, discount impact, and YoY trends. Includes a **dynamic What-If simulation model** for evaluating margin improvement scenarios.
 
-Multi-page financial intelligence dashboard covering sales, profit, COGS, discount impact, and YoY trends — with a dynamic What-If simulation model for evaluating margin-improvement scenarios.
+![Financial Dashboard](https://raw.githubusercontent.com/MuzammilAhmed14/PowerBI-Projects/main/Financial%20Dashboard%20Project/Images/Performance%20Overview%20page.JPG)
 
-Power BI What-If Analysis Financial Modeling
-
-</td>
-</tr>
-</table>
-<br>
 ---
 
 ## 📊 GitHub Stats
