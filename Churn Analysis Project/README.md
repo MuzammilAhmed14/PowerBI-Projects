@@ -1,183 +1,169 @@
-# 🧾 Customer Churn Analysis 
+<div align="center">
 
-Interactive Power BI dashboard enhanced with **Random Forest-based churn predictions**.
+# 📉 Customer Churn Analytics
+### Turning 6,418 customer records into 378 people worth calling — before they leave
 
----
+**Power BI Dashboard  ×  Random Forest Machine Learning**
 
-## 📌 Problem Statement
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/MuzammilAhmed14/PowerBI-Projects)
+[![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+[![Random Forest](https://img.shields.io/badge/Random%20Forest-ML-2DD4BF?style=for-the-badge)](#)
+[![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-EF4444?style=for-the-badge)](#)
 
-In the competitive telecommunications industry, customer retention is critical. The company faces a **27% churn rate**, resulting in revenue loss and higher acquisition costs.
+[View Dashboard](#-dashboard-preview) · [Key Insights](#-key-insights) · [How It Was Built](#%EF%B8%8F-how-it-was-built) · [Contact](#-lets-connect)
 
-**Key Challenges:**
+</div>
 
-- Identifying at-risk customers before they churn  
-- Understanding root causes driving customer attrition  
-- Lack of visibility into vulnerable customer segments  
-- Ineffective prioritization of retention initiatives  
-- No predictive capability for proactive intervention  
+<br>
 
-This project combines **Power BI analytics** with **Random Forest ML** to identify high-risk customers, analyze churn patterns, and enable **data-driven retention strategies**.
+## 🎯 The 30-Second Version
 
----
+> A telecom company was losing **27% of its customers**. Nobody could see it coming.
+> I built a Power BI dashboard that explains *why* customers leave, and trained a
+> **Random Forest model** that predicts *who* will leave next — surfacing **378 at-risk
+> customers** ranked by churn probability, ready for the retention team to act on.
 
-## 🎯 Objective
+<br>
 
-Build an interactive Power BI dashboard with ML-driven insights to:
+<div align="center">
 
-- Analyze churn patterns across demographics, behavior, and services  
-- Identify key drivers of customer attrition  
-- Predict at-risk customers using **Random Forest**  
-- Provide actionable insights for targeted retention campaigns  
+| 👥 Total Customers | 📉 Churn Rate | ❌ Customers Lost | 🆕 New Joiners | 🎯 Predicted At-Risk |
+|:---:|:---:|:---:|:---:|:---:|
+| **6,418** | **27.0%** | **1,732** | **411** | **378** |
 
----
+</div>
 
-## 📊 Dashboard Overview
+<br>
 
-**Key Metrics:**
+## 🧩 The Problem
 
-| Metric                 | Value  |
-|------------------------|--------|
-| Total Customers         | 6,418  |
-| Churn Rate              | 27.0%  |
-| Churned Customers       | 1,732  |
-| New Joiners             | 411    |
-| Predicted Churners      | 378    |
+Telecom is a brutal retention business — acquiring a customer costs far more than keeping
+one. This company had no way to answer the questions that actually matter:
 
-## 📊 Dashboard Screenshots
+- 🔍 **Who** is about to churn, before they're already gone?
+- 🧠 **Why** are they leaving — price, service, or a better competitor offer?
+- 🗺️ **Where** is churn concentrated, so budget goes to the right regions?
+- 💸 **How** should retention spend be prioritized instead of spread thin?
 
-### Main Churn Analysis Dashboard
-![Churn Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG)
+Without answers, every retention effort was reactive, expensive, and untargeted.
 
-### Predicted Churner Dashboard (Random Forest ML-Powered)
-![Prediction Dashboard](https://github.com/MuzammilAhmed14/PowerBI-Projects/blob/main/Churn%20Analysis%20Project/Images/Prediction%20Dashboard.JPG)
+<br>
 
-### Page 1: Churn Analysis Overview
+## 🛠️ How It Was Built
 
-**Demographics Analysis:**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Churn by gender: Male 64.1%, Female 35.85%  
-- Age groups: <20, 20–35, 36–50, >50  
-- Marital status impact on retention  
+### 🧹 Data Engineering
+Cleaned and modeled raw customer data into something analysis-ready.
 
-**Geographic Insights:**
+- ETL with **Power Query**
+- Relationship modeling across **12 service features**
+- **DAX** measures for churn, tenure, and revenue KPIs
 
-- Top 5 high-churn states: Jammu & Kashmir, Assam, Jharkhand, Chhattisgarh, Delhi  
+</td>
+<td width="33%" valign="top">
 
-**Contract & Payment Analysis:**
+### 📊 Business Intelligence
+An interactive report built for daily use — not a one-time export.
 
-- Month-to-month contracts show ~50% churn vs. annual contracts  
-- Payment method correlation with churn  
-- Tenure segmentation: <6 months to ≥24 months  
+- Demographic, geographic & contract breakdowns
+- Root-cause view (price, service, competitors)
+- Dynamic filters & slicers for self-service exploration
 
-**Service Usage Breakdown:**
+</td>
+<td width="33%" valign="top">
 
-- 12 service features analyzed: Internet Service, Phone Service, Unlimited Data, Premium Support, Online Security  
+### 🤖 Machine Learning
+A **Random Forest Classifier** trained to score every customer's risk.
 
-**Churn Root Causes:**
+- Inputs: demographics, usage, tenure, contract, payment
+- Output: a churn probability **per customer**
+- Integrated directly into the Power BI report
 
-- Competitor offers, service attitude, dissatisfaction, price concerns, other factors  
+</td>
+</tr>
+</table>
 
-**Technology Analysis:**
+<br>
 
-- Internet type impact: Fiber, Cable, DSL, None  
+## 📸 Dashboard Preview
 
----
+<div align="center">
 
-### Page 2: Predicted Churner Profile (Random Forest ML-Powered)
+**Page 1 — Churn Analysis Overview**
+*Demographics, geography, contracts, root causes, and service usage at a glance*
 
-**At-Risk Customer Identification:**
+![Churn Dashboard](https://raw.githubusercontent.com/MuzammilAhmed14/PowerBI-Projects/main/Churn%20Analysis%20Project/Images/Churn%20Dashboard.JPG)
 
-- 378 predicted churners: 246 Female, 132 Male  
-- Segmentation by age, marital status, tenure, and payment method  
-- Geographic concentration: Uttar Pradesh, Maharashtra, Tamil Nadu, Karnataka  
-- Customer-level details: ID, monthly charges, revenue, refunds, referrals  
+<br>
 
-**Random Forest Highlights:**
+**Page 2 — Predicted Churner Profile** *(Random Forest–powered)*
+*The 378 at-risk customers, ranked and segmented for outreach*
 
-- Algorithm: Random Forest Classifier for churn prediction  
-- Features: demographics, service usage, tenure, contract type, payment method  
-- Output: probability of churn per customer  
-- Integrated into Power BI for visualization and actionable insights  
+![Prediction Dashboard](https://raw.githubusercontent.com/MuzammilAhmed14/PowerBI-Projects/main/Churn%20Analysis%20Project/Images/Prediction%20Dashboard.JPG)
 
----
+</div>
+
+<br>
 
 ## 💡 Key Insights
 
-- Month-to-month contracts are highest risk  
-- Service bundling improves retention  
-- Early intervention in the first 6 months is critical  
-- High-churn states require focused campaigns  
-- Payment methods correlate with churn probability  
-- Random Forest predictions enable proactive retention strategies  
+| Finding | What It Means for the Business |
+|---|---|
+| Month-to-month contracts churn at **~2x** the rate of annual contracts | The single biggest lever for retention |
+| First **6 months** is the highest-risk window | Early intervention matters more than late saves |
+| Churn is concentrated in specific states (J&K, Assam, Jharkhand, Chhattisgarh, Delhi) | Campaigns can be geographically targeted |
+| Bundled services (security, support, unlimited data) correlate with longer retention | Bundling is a retention tool, not just a sales tactic |
+| Payment method is a measurable churn signal | An overlooked lever most teams ignore |
+| Random Forest turns all of the above into one number per customer | Retention becomes a ranked list, not a guess |
 
----
-
-## 🧠 What I Learned
-
-### 🧩 Technical Skills
-
-- Power BI Desktop advanced visualization techniques  
-- DAX for complex measures and KPIs  
-- Power Query for ETL and data transformation  
-- Data modeling and relationship management  
-- Dynamic filters and slicers for interactive reporting  
-- Random Forest ML modeling for churn prediction  
-
-### 💼 Business Intelligence
-
-- Translating business requirements into analytical solutions  
-- KPI identification and metric definition  
-- Dashboard design principles for executive-level reporting  
-- UX considerations for BI dashboards  
-
-### 📊 Data Analytics
-
-- Customer segmentation and behavioral analysis  
-- Churn driver analysis across multiple dimensions  
-- Revenue attribution and trend analysis  
-- Statistical and ML-based predictive insights  
-
-### 🧩 Problem-Solving
-
-- Breaking down complex business problems into measurable components  
-- Identifying root causes through multi-dimensional analysis  
-- Developing actionable recommendations from insights  
-
-### 🗣️ Communication
-
-- Data storytelling and narrative building  
-- Presenting insights to non-technical stakeholders  
-- Self-service analytics for business users  
-- Effective visual hierarchy and dashboard flow  
-
----
+<br>
 
 ## 📈 Business Impact
 
-This dashboard enables the company to:
+- ✅ Launch retention campaigns aimed at the **378 highest-risk customers** — not a broad, expensive guess
+- ✅ Fix root causes (pricing, service quality, competitors) with **evidence**, not opinion
+- ✅ Prioritize spend on the **highest-churn regions**
+- ✅ Redesign contracts and bundles around what the data shows actually keeps people
+- ✅ Give marketing, sales & customer success **one shared, live source of truth**
 
-- Launch proactive retention campaigns targeting predicted churners  
-- Implement strategic interventions based on churn root causes  
-- Focus on high-churn regions  
-- Optimize service bundling and contracts  
-- Enable data-driven decisions across marketing, sales, and customer success teams  
+<br>
 
----
+## 🧠 Skills Demonstrated
 
-## 👤 Author
+<div align="center">
 
-**Sheikh Muzammil Ahmed**  
-**📊 Data Analyst | Business Intelligence Enthusiast | Power BI & Random Forest ML Storyteller**
+`Power BI` `DAX` `Power Query` `Data Modeling` `Random Forest` `Predictive Analytics`
+`Customer Segmentation` `Churn Analysis` `Root-Cause Analysis` `KPI Design`
+`Executive Reporting` `Data Storytelling` `Stakeholder Communication` `Telecom Analytics`
 
----
+</div>
 
-## 📫 Connect
+<br>
 
-- **LinkedIn:** [Sheikh Muzammil Ahmed](https://www.linkedin.com/in/muzammil-ahmed-ap2000)  
-- **Email:** [sheikhmuzammil2000@gmail.com](mailto:sheikhmuzammil2000@gmail.com)
+## 👤 About Me
 
----
+**Sheikh Muzammil Ahmed**
+Data Analyst · Business Intelligence · Power BI & Random Forest ML Storyteller
 
-## 🏷️ Tags
+I turn messy operational data into dashboards people actually open — and models that
+make those dashboards predictive instead of just descriptive.
 
-#CustomerChurn #ChurnPrediction #RandomForest #PredictiveAnalytics #MachineLearning #DataAnalytics #PowerBI #BusinessIntelligence #CustomerRetention #TelecomAnalytics #DataVisualization #DAX #PowerQuery #DataModeling
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil-ahmed-ap2000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhmuzammil2000@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+#CustomerChurn `·` #PredictiveAnalytics `·` #MachineLearning `·` #PowerBI `·` #BusinessIntelligence `·` #CustomerRetention `·` #TelecomAnalytics
+
+</div>
