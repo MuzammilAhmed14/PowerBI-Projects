@@ -21,7 +21,7 @@
 
 ## 🙋 About Me
 
-I'm a data analyst with **1.5+ years of professional experience** in **Power BI**, **data modeling**, and **business intelligence**. I specialize in building analytical solutions that give organizations clear visibility into their performance — and the confidence to act on it.
+I'm a data analyst with **2+ years of professional experience** in **Power BI**, **data modeling**, and **business intelligence**. I specialize in building analytical solutions that give organizations clear visibility into their performance — and the confidence to act on it.
 
 My work spans customer analytics, financial reporting, and predictive modeling, with a growing interest in integrating **machine learning** into BI workflows.
 
